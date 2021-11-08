@@ -1,5 +1,5 @@
 ### Hello 👋 thanks for stopping by!
-I'm [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
+[![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
 
 ### I LOVE DATA SCIENCE!!!
 I found solace  Data Manipulation;  Cloud experience with **Amazon Web Service Solution Architect Associate** 

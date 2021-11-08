@@ -12,12 +12,12 @@ My code repos remain up as a reference but will not be modified further.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...Business Intelligence Dashboard with Power BI
-- 🌱 I’m currently learning ... IBM Data Science Professional Certification, Hadoop and RPA 
-- 👯 I’m looking to collaborate on ...AWS SAA
-- 🤔 I’m looking for help with ...Data Science proposal projects
-- 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on business Intelligence Dashboard with Power BI
+- 🌱 I’m currently learning  IBM Data Science Professional Certification, Hadoop and RPA 
+- 👯 I’m looking to collaborate on AWS SAA
+- 🤔 I’m looking for help with   Data Science proposal projects
+- 💬 Ask me about Anything
+- 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am from Cameroon
 -->

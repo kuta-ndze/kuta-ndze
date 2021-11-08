@@ -1,16 +1,9 @@
-### Hi 👋 I'am Celdrick. 
-I'm currently a potential graduate from the Masters of Science program in Applied Statistics from Illinois State University. 
-I'am also a Data Science Enthusiast particularly in ML/AI;  with cloud experience with Amazon Web Service Solution Architect Associate 
-and previously worked on Machine learning projects for Caravan Insurance determinants. My skills
-aer good mix of Science and Technology, because i like to speed up my programing zest.
+### Hello 👋 thanks for stopping by!
+I'm [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
 
-My opinion repo and other contents here are not a reflection of perfection, i am making my contributions/submitions to the projects 
-in my personal capacity and school work and not conveying any rights to any intellectual property of any third parties.
-
-My code repos remain up as a reference but will not be modified further.
-
-
-Here are some ideas to get you started:
+### I LOVE DATA SCIENCE!!!
+I find solace  Data Manipulation;  Cloud experience with **Amazon Web Service Solution Architect Associate** 
+My skills are good mix of Science and Technology, because i like to speed up my programing zest.
 
 - 🔭 I’m currently working on business Intelligence Dashboard with Power BI
 - 🌱 I’m currently learning  IBM Data Science Professional Certification, Hadoop and RPA 

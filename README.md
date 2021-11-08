@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...AWS SAA
 - 🤔 I’m looking for help with ...Data Science proposal projects
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 -->

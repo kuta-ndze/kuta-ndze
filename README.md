@@ -7,7 +7,7 @@ My skills are good mix of Science and Technology, because i like to speed up my 
 
 <p>
 <a href="https://kuta-ndze.github.io/CTK301/kutaportfolio/kutasportfolio.html"><img alt="Eample Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
-<a href="https://github.com/ram-sah"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
+<a href="https://github.com/kuta-ndze"><img alt="github URL" src="https://img.shields.io/twitter/url?label=kuta-ndze&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
 <a href="mailto:rsah1@asu.edu"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
 <a href="https://www.linkedin.com/in/ram-sah"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fram-sah" height="25">
 <a href="https://twitter.com/mohan2036"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>

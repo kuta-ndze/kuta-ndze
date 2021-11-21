@@ -1,7 +1,7 @@
 ### Hello 👋 thanks for stopping by!
 [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
 
-### I LOVE DATA SCIENCE!!!
+### I'M A DATA ENTHUSIAST!!!
 I found solace in  Data Manipulation;  Cloud experience with **Amazon Web Service Solution Architect Associate** 
 My skills are a good mix of Science and Technology because i like to speed up my programing zest.
 

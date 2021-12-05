@@ -15,7 +15,7 @@ My skills are a good mix of Science and Technology
 <a href="https://drive.google.com/file/d/1d7-Sat8IZp4nzhRlFKScIeUf6MQ_nQox/view?usp=sharing" target="_blank" rel="noopener noreferrer"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 - 🔭 I’m currently working on business Intelligence Dashboard with Power BI
-- 🌱 I’m currently learning  IBM Data Science Professional Certification, Hadoop and RPA 
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on AWS SAA
 - 🤔 I’m looking to collaborate with other data enthusiast
 - 🥅 2021 Goals: Secure first DSc Job and contribute to Open Source projects

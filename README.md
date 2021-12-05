@@ -43,3 +43,8 @@ My skills are a good mix of Science and Technology
 <br />
 <br />
 
+### Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+

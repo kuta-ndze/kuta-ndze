@@ -2,9 +2,9 @@
 [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
 
 ### I'M A DATA ENTHUSIAST!!!
-I found solace in  Data Manipulation;  Cloud experience with **Amazon Web Service Solution Architect Associate** 
-My skills are a good mix of Science and Technology  
-<br/> I like to speed up my programing zest.
+Love to play with data, data security!
+<br/> Learning alot on AWS Lately.
+
 
 <p>
 <a href="https://kuta-ndze.github.io/css-html-js/kutaportfolio/kutasportfolio.html" target="_blank" rel="noopener noreferrer"><img alt="Eample Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 

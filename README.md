@@ -2,7 +2,7 @@
 [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
 
 ### I'M A DATA ENTHUSIAST!!!
-Love to play with data, data security!
+Love to play with data and <em> data security </em>!
 <br/> Learning alot on AWS Lately.
 
 
@@ -44,6 +44,7 @@ Love to play with data, data security!
 <br />
 
 ### 📕 Latest Blog posts
+<p> coming soon</p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

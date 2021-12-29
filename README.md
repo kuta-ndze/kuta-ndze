@@ -18,7 +18,7 @@ Love to play with data and <em> data security </em>!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on AWS SAA
 - 🤔 I’m looking to collaborate with other data enthusiast
-- 🥅 2021 Goals: Secure first DSc Job and contribute to Open Source projects
+- 🥅 2022 Goals: Secure first DSc Job and contribute to Open Source projects
 - 💬 Ask me about Anything
 - 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: He/Him

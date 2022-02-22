@@ -1,10 +1,11 @@
 ### Hello 👋 thanks for stopping by!
-[![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/) 
+
+[![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 
 ### I'M A DATA ENTHUSIAST!!!
+
 Love to play with data and <em> data security </em>!
 <br/> Learning alot on AWS Lately.
-
 
 <p>
 <a href="https://kuta-ndze.github.io/css-html-js/kutaportfolio/kutasportfolio.html" target="_blank" rel="noopener noreferrer"><img alt="Eample Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
@@ -14,15 +15,15 @@ Love to play with data and <em> data security </em>!
 <a href="https://twitter.com/kutandze" target="_blank" rel="noopener noreferrer"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
 <a href="https://github.com/kuta-ndze/embeded_factorization/blob/main/Kuta_Resume.pdf" target="_blank" rel="noopener noreferrer"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
-- 🔭 I’m currently working on business Intelligence Dashboard with Power BI
+- 🔭 I’m currently preparing to take my first AWS SAA exams
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on AWS SAA
 - 🤔 I’m looking to collaborate with other data enthusiast
-- 🥅 2022 Goals: Secure first DSc Job and contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to more Open Source projects
 - 💬 Ask me about Anything
-- 📫 How to reach me:  [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to medidate and play soccer!
+- ⚡ Fun fact: I am an introvert but loves networking. lol!
 
 ### Languages and Tools:
 
@@ -44,8 +45,7 @@ Love to play with data and <em> data security </em>!
 <br />
 
 ### 📕 Latest Blog posts
+
 <p> coming soon</p>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-

@@ -1,6 +1,6 @@
 ### Hello 👋 thanks for stopping by!
 
-[![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+[![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://github.com/kuta-ndze)
 
 ### I'M A DATA ENTHUSIAST!!!
 

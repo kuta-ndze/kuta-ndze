@@ -2,11 +2,6 @@
 
 [![Author: RAM](https://img.shields.io/badge/I'm-KUTA-yellowgreen)](https://github.com/kuta-ndze)
 
-### I'M A DATA ENTHUSIAST!!!
-
-Love to play with data and <em> data security </em>!
-<br/> Learning alot on AWS Lately.
-
 <p aligne = "center">
 <a href="https://kuta-ndze.github.io/css-html-js/kutaportfolio/kutaspotfolio.html" target="_blank" rel="noopener noreferrer"><img alt="Eample Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
 <a href="https://github.com/kuta-ndze"><img alt="github URL" src="https://img.shields.io/twitter/url?label=kuta-ndze&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
@@ -20,7 +15,7 @@ Love to play with data and <em> data security </em>!
 - 👯 I’m looking to collaborate on AWS SAA
 - 🥅 2022 Goals: Contribute to more Open Source projects
 - 💬 Ask me about Anything
-- 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an introvert but loves networking. lol!
 

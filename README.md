@@ -20,7 +20,7 @@ Love to play with data and <em> data security </em>!
 - 👯 I’m looking to collaborate on AWS SAA
 - 🥅 2022 Goals: Contribute to more Open Source projects
 - 💬 Ask me about Anything
-- 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
+- 📫 How to reach me: [**linkedIn**](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an introvert but loves networking. lol!
 

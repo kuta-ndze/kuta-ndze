@@ -18,9 +18,6 @@ Love to play with data and <em> data security </em>!
 - 🔭 I’m currently preparing to take my first AWS SAA exams
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on AWS SAA
-<!--
-- 🤔 I’m looking to collaborate in competitions
-  -->
 - 🥅 2022 Goals: Contribute to more Open Source projects
 - 💬 Ask me about Anything
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)

@@ -24,6 +24,7 @@ Love to play with data and <em> data security </em>!
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an introvert but loves networking. lol!
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuta-ndze &theme=radical)
 
 ### Languages and Tools:
 

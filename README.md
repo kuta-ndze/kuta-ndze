@@ -17,7 +17,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an introvert but loves networking. lol!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuta-ndze&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuta-ndze&theme=radical) -->
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuta-ndze&show_icons=true&theme=radical)
 
 ### Languages and Tools:

@@ -18,8 +18,8 @@
 - ⚡ Fun fact: I am an introvert but loves networking. lol!
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuta-ndze&theme=radical) -->
-<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kuta-ndze&show_icons=true&theme=radical" />
-<img align = "left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuta-ndze&layout=compact" />
+<img align = "left" width="46%" src="https://github-readme-stats.vercel.app/api?username=kuta-ndze&show_icons=true&theme=radical" />
+<img align = "left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuta-ndze&layout=compact" />
 
 ### Languages and Tools:
 

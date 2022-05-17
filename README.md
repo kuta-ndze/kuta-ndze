@@ -1,4 +1,4 @@
-#Hi there, I'm Celdrick 👋
+# Hi there, I'm Celdrick 👋
 
 <p aligne = "center">
 <a href="https://kuta-ndze.github.io/css-html-js/kutaportfolio/kutaspotfolio.html" target="_blank" rel="noopener noreferrer"><img alt="Eample Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 

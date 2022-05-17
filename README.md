@@ -21,7 +21,9 @@
 
 <img align = "left" width="46%" src="https://github-readme-stats.vercel.app/api?username=kuta-ndze&show_icons=true&theme=radical" />
 <img align = "left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuta-ndze&layout=compact" />
-<br>
+
+<br />
+<br />
 
 ## Languages and Tools:
 

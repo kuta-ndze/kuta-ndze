@@ -6,7 +6,7 @@
 <a href="mailto:kutaceldrick880@gmail.com"><img alt="Mailto" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"></a>
 <a href="https://www.linkedin.com/in/kuta-n-celdrick-b808ba169/" target="_blank" rel="noopener noreferrer"><img alt="Linkedin URL" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="25">
 <a href="https://twitter.com/kutandze" target="_blank" rel="noopener noreferrer"><img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" height="25"></a>
-<a href="https://github.com/kuta-ndze/embeded_factorization/blob/main/Celdrick_Data_Science_Resume.pdf" target="_blank" rel="noopener noreferrer"><img alt="Resume" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
+<a href="https://github.com/kuta-ndze/embeded_factorization/blob/main/Celdrick_s_Resume.pdf" target="_blank" rel="noopener noreferrer"><img alt="Resume" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
 - 🔭 I’m currently preparing to take my first AWS SAA exams
 - 🌱 I’m currently learning everything
